@@ -1,0 +1,27 @@
+.header {
+    background-color: black;
+    color: goldenrod;
+    padding: 32px;
+    margin-bottom: 5px;
+    margin-top: 1px;
+}
+
+#big-body {
+    background-color: goldenrod;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+
+.sec-head {
+    background-color: black;
+    color: goldenrod;
+    padding: 24px;
+    margin-top: 2px;
+}
+
+ul{
+   list-style-type: circle;
+   font-weight: bold;
+}
+
